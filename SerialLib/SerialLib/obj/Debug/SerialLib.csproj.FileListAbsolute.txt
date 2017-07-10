@@ -1,0 +1,5 @@
+/Users/rei/Documents/fujii/human_augmentation/unity-arduino/SerialLib/SerialLib/bin/Debug/SerialLib.dll
+/Users/rei/Documents/fujii/human_augmentation/unity-arduino/SerialLib/SerialLib/bin/Debug/SerialLib.pdb
+/Users/rei/Documents/fujii/human_augmentation/unity-arduino/SerialLib/SerialLib/obj/Debug/SerialLib.csproj.CoreCompileInputs.cache
+/Users/rei/Documents/fujii/human_augmentation/unity-arduino/SerialLib/SerialLib/obj/Debug/SerialLib.dll
+/Users/rei/Documents/fujii/human_augmentation/unity-arduino/SerialLib/SerialLib/obj/Debug/SerialLib.pdb

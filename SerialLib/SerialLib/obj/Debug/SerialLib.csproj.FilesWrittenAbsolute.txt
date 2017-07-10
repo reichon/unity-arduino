@@ -1,0 +1,4 @@
+/Users/rei/Documents/fujii/human_augmentation/unity-arduino/SerialLib/SerialLib/bin/Debug/SerialLib.dll.mdb
+/Users/rei/Documents/fujii/human_augmentation/unity-arduino/SerialLib/SerialLib/bin/Debug/SerialLib.dll
+/Users/rei/Documents/fujii/human_augmentation/unity-arduino/SerialLib/SerialLib/obj/Debug/SerialLib.dll
+/Users/rei/Documents/fujii/human_augmentation/unity-arduino/SerialLib/SerialLib/obj/Debug/SerialLib.dll.mdb
